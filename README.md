@@ -1,5 +1,5 @@
 <h3>Fine tuning Bert-base-uncased on emotion dataset</h3>
-<img src="images/6f45a6fb-eb99-400e-9431-2dd3fcf05c32.jpg">
+<img src="images/e2088e04-4ff3-45d5-a5f4-103ebc77397e.jpg">
 
 
 <h3>Chatbot inference showing all six classifications</h3>
