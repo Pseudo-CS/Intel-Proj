@@ -10,5 +10,5 @@
 <img src="images/6f45a6fb-eb99-400e-9431-2dd3fcf05c32.jpg">
 
 ---------------------------------------------------------------
-<img src="images/6f45a6fb-eb99-400e-9431-2dd3fcf05c32.jpg"><br>
+<img src="images/afc57c0e-459c-4330-bab0-663a613a5b1e.jpg"><br>
 result at 1 epoch(server constraints limits us to 1 epoch)
