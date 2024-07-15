@@ -7,7 +7,7 @@
 
 
 <h3>LORA Fine tuning parameters for llama-3b-v2</h3>
-<img src="images/6f45a6fb-eb99-400e-9431-2dd3fcf05c32.jpg">
+<img src="images/6f45a6fb-eb99-400e-9431-2dd3fcf05c32.jpg" width=400 height=640>
 
 ---------------------------------------------------------------
 <img src="images/afc57c0e-459c-4330-bab0-663a613a5b1e.jpg"><br>
