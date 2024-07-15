@@ -7,8 +7,7 @@
 
 
 <h3>LORA Fine tuning parameters for llama-3b-v2</h3>
-![image](https://github.com/user-attachments/assets/b1364165-61f6-433a-b1ae-b86e756d7597)
-<img src="images/6f45a6fb-eb99-400e-9431-2dd3fcf05c32.jpg" width=600 height=340>
+<img src="images/6f45a6fb-eb99-400e-9431-2dd3fcf05c32.jpg">
 
 ---------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/e6572dca-f8b9-4c27-a077-f82776470e1b)<br>
