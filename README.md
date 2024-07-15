@@ -7,8 +7,9 @@
 
 
 <h3>LORA Fine tuning parameters for llama-3b-v2</h3>
-![image](https://github.com/user-attachments/assets/7fb1dd2a-1f37-4b44-90f6-fabcaf588dcb)
+![image](https://github.com/user-attachments/assets/b1364165-61f6-433a-b1ae-b86e756d7597)
+
 
 ---------------------------------------------------------------
-![image](https://github.com/user-attachments/assets/e6572dca-f8b9-4c27-a077-f82776470e1b)
+![image](https://github.com/user-attachments/assets/e6572dca-f8b9-4c27-a077-f82776470e1b)\n
 result at 1 epoch(server constraints limits us to 1 epoch)
