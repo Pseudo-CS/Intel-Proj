@@ -3,7 +3,7 @@
 
 
 <h3>Chatbot inference showing all six classifications</h3>
-<img src="images/071aa6c3-37b1-4bd5-8623-70d6bcf0fbc5.jpg" width=500 height=640>
+<img src="images/071aa6c3-37b1-4bd5-8623-70d6bcf0fbc5.jpg" width=600 height=640>
 
 
 <h3>LORA Fine tuning parameters for llama-3b-v2</h3>
